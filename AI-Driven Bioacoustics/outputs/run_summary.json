@@ -1,0 +1,14 @@
+{
+  "rows": 698,
+  "regions": 11,
+  "features_available": [
+    "low_freq_hz",
+    "peak_freq_hz",
+    "high_freq_hz",
+    "peak_amplitude_db",
+    "snr_db"
+  ],
+  "has_spectrograms": true,
+  "figures_dir": "C:\\Users\\rahma\\Downloads\\AI-Driven Bioacoustics\\outputs\\figures",
+  "models_dir": "C:\\Users\\rahma\\Downloads\\AI-Driven Bioacoustics\\outputs\\models"
+}

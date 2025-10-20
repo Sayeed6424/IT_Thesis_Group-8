@@ -1,0 +1,65 @@
+recording_id,duration_sec,snr_db,low_freq_hz,peak_freq_hz,high_freq_hz,latitude,longitude,ibra_bioregion,habitat,date,time_local,julian_day,season,sex,age_class
+PC_0001,2.05,17.8,395.4,739.3,1172.9,-28.18862,123.73504,Finke,Acacia shrubland,26/02/2024,17:38,57,Summer,Unknown,Adult
+PC_0002,1.459,21.4,835.9,1021.3,1478.3,-25.9507,133.29156,MacDonnell Ranges,Spinifex grassland,13/05/2023,13:10,133,Autumn,Male,Adult
+PC_0003,1.099,11.4,730.3,1029.1,1361.6,-23.77298,125.07067,Simpson Strzelecki Dunefields,Spinifex grassland,10/10/2023,17:57,283,Spring,Unknown,Adult
+PC_0004,1.091,11.2,522,913.7,1210.1,-25.18678,130.83273,Gawler,Chenopod shrubland,21/02/2024,18:07,52,Summer,Unknown,Unknown
+PC_0005,0.92,21.6,928,1232.1,1591.8,-19.45375,124.52448,Gawler,Chenopod shrubland,12/10/2023,12:45,285,Spring,Unknown,Adult
+PC_0006,0.937,22.8,1116.2,1461.6,1903.8,-28.777,122.67343,Tanami,Spinifex grassland,14/05/2023,12:46,134,Autumn,Male,Unknown
+PC_0007,2.212,15.3,444.8,785.4,1072.7,-18.89539,124.96294,Channel Country,Acacia shrubland,17/05/2024,5:37,138,Autumn,Unknown,Adult
+PC_0008,0.924,9.8,301.6,674.3,2189.1,-21.19183,133.9099,Gawler,Chenopod shrubland,22/01/2024,10:13,22,Summer,Female,Adult
+PC_0009,0.915,12.1,1407.6,1655.8,1936.5,-29.49024,132.78889,Channel Country,Riparian woodland,9/11/2024,17:14,314,Spring,Female,Adult
+PC_0010,0.589,10.8,2751.8,3152.1,3638.4,-30.15449,134.19786,Central Ranges,Acacia shrubland,3/07/2024,6:42,184,Winter,Female,Adult
+PC_0011,1.297,11.8,779,1139.8,1568.7,-30.26745,138.69613,Central Ranges,Riparian woodland,18/03/2023,10:33,77,Autumn,Female,Adult
+PC_0012,1.163,18.3,1216.1,1473.4,1858.3,-23.12435,123.90615,Great Victoria Desert,Spinifex grassland,13/11/2024,6:57,318,Spring,Unknown,Adult
+PC_0013,1.096,10.3,1098.9,1459.8,1753.3,-30.47198,136.92972,MacDonnell Ranges,Spinifex grassland,25/08/2023,16:09,237,Winter,Unknown,Unknown
+PC_0014,0.724,11.1,433.1,733.9,1863.9,-22.87297,137.61483,MacDonnell Ranges,Chenopod shrubland,16/09/2023,11:21,259,Spring,Female,Adult
+PC_0015,1.495,12,1350.5,1571.6,1838.2,-20.4547,127.58602,Central Ranges,Chenopod shrubland,20/05/2023,7:00,140,Autumn,Female,Adult
+PC_0016,0.785,12.6,769.1,992.2,1196.4,-31.25265,132.64059,MacDonnell Ranges,Riparian woodland,1/05/2024,14:31,122,Autumn,Unknown,Adult
+PC_0017,1.005,13.6,1054.8,1425,1633.7,-28.50857,132.28219,Murray-Darling Depression,Eucalypt open woodland,13/06/2023,10:49,164,Winter,Male,Adult
+PC_0018,1.024,11.5,594.3,961,1171.4,-20.18995,138.24776,Murray-Darling Depression,Chenopod shrubland,15/08/2023,18:42,227,Winter,Unknown,Juvenile
+PC_0019,1.371,22,1318.4,1545.3,1929.3,-25.52081,128.93161,Simpson Strzelecki Dunefields,Eucalypt open woodland,9/10/2024,13:57,283,Spring,Male,Adult
+PC_0020,1.717,16.3,678.7,875.2,1185.5,-26.6875,134.34338,Central Ranges,Spinifex grassland,11/08/2023,9:09,223,Winter,Male,Adult
+PC_0021,0.44,17.7,1644,2058.2,2967.4,-24.54189,133.39252,Murray-Darling Depression,Riparian woodland,10/03/2023,9:02,69,Autumn,Male,Adult
+PC_0022,1.434,20.2,1376.1,1602.5,2006.1,-30.81709,138.84692,Central Ranges,Spinifex grassland,13/11/2024,6:55,318,Spring,Male,Adult
+PC_0023,1.312,18.3,1188.8,1547.8,2034.3,-30.66931,133.09098,Great Victoria Desert,Acacia shrubland,8/06/2023,7:23,159,Winter,Unknown,Adult
+PC_0024,0.626,13.2,220.3,561.3,2000.7,-18.96269,124.1552,Simpson Strzelecki Dunefields,Spinifex grassland,11/01/2023,6:38,11,Summer,Male,Unknown
+PC_0025,0.919,21.4,1030.3,1364.6,1631.3,-28.21251,128.55546,Mitchell Grass Downs,Chenopod shrubland,16/05/2024,9:24,137,Autumn,Male,Unknown
+PC_0026,2.404,24.2,667.4,894.1,1313,-21.07578,130.62865,Simpson Strzelecki Dunefields,Spinifex grassland,12/05/2023,10:16,132,Autumn,Male,Adult
+PC_0027,2.427,19.6,286.5,606.6,997.8,-22.39465,122.22145,Central Ranges,Riparian woodland,1/04/2023,11:21,91,Autumn,Male,Adult
+PC_0028,0.959,11.7,905,1165.4,1549.1,-18.04151,137.8256,Great Victoria Desert,Riparian woodland,7/10/2024,8:58,281,Spring,Male,Adult
+PC_0029,2.499,12.4,819.1,1099.1,1326.2,-28.62841,124.57439,Great Victoria Desert,Acacia shrubland,16/03/2024,15:52,75,Autumn,Male,Adult
+PC_0030,0.759,15.6,166.7,318.1,1159.4,-28.66026,137.28936,Simpson Strzelecki Dunefields,Eucalypt open woodland,19/08/2023,5:48,231,Winter,Male,Unknown
+PC_0031,0.84,7.5,289.6,649.1,1481.2,-24.93657,135.41339,Central Ranges,Chenopod shrubland,1/06/2024,13:49,153,Winter,Unknown,Adult
+PC_0032,0.567,15.3,1519.9,1828.2,2654.1,-31.237,133.09356,Finke,Chenopod shrubland,5/01/2023,5:35,5,Summer,Female,Adult
+PC_0033,0.421,15.4,150,345.9,1929.9,-23.09028,132.30344,Finke,Riparian woodland,26/02/2024,7:01,57,Summer,Female,Adult
+PC_0034,0.705,12.1,337.6,649.9,2202.4,-26.34352,130.53504,Channel Country,Eucalypt open woodland,2/05/2023,6:40,122,Autumn,Female,Adult
+PC_0035,0.352,12.9,1783,2227.4,3008.2,-28.9532,132.58951,MacDonnell Ranges,Acacia shrubland,21/07/2024,9:26,203,Winter,Unknown,Adult
+PC_0036,0.974,19.7,720.9,1035.4,1348.5,-22.86594,127.69185,Central Ranges,Eucalypt open woodland,21/08/2023,16:01,233,Winter,Unknown,Adult
+PC_0037,0.738,17.1,202.1,480.3,1869.7,-24.94914,131.36495,Gawler,Chenopod shrubland,11/09/2023,16:11,254,Spring,Male,Unknown
+PC_0038,0.994,14.2,755.1,969.5,1337.9,-27.32218,125.1139,Mitchell Grass Downs,Riparian woodland,20/11/2024,9:23,325,Spring,Unknown,Unknown
+PC_0039,1.593,11.7,1325.1,1599.6,1888,-26.89113,139.25173,Gawler,Acacia shrubland,14/03/2023,18:56,73,Autumn,Male,Unknown
+PC_0040,1.188,13.1,1045.7,1323.2,1651.4,-24.64876,124.94752,Gawler,Chenopod shrubland,1/11/2024,7:19,306,Spring,Female,Adult
+PC_0041,1.834,17.1,907.1,1255.2,1497.6,-30.87931,135.59594,Gawler,Acacia shrubland,8/02/2023,11:04,39,Summer,Male,Adult
+PC_0042,0.427,11.9,592.4,753.6,1739.8,-23.78977,130.87922,Murray-Darling Depression,Riparian woodland,14/01/2023,6:10,14,Summer,Unknown,Unknown
+PC_0043,,,,,,,,,,,,,,,
+PC_0044,,,,,,,,,,,,,,,
+PC_0045,,,,,,,,,,,,,,,
+PC_0046,,,,,,,,,,,,,,,
+PC_0047,,,,,,,,,,,,,,,
+PC_0048,,,,,,,,,,,,,,,
+PC_0049,,,,,,,,,,,,,,,
+PC_0050,,,,,,,,,,,,,,,
+PC_0051,,,,,,,,,,,,,,,
+PC_0052,,,,,,,,,,,,,,,
+PC_0053,,,,,,,,,,,,,,,
+PC_0054,,,,,,,,,,,,,,,
+PC_0055,,,,,,,,,,,,,,,
+PC_0056,,,,,,,,,,,,,,,
+PC_0057,,,,,,,,,,,,,,,
+PC_0058,,,,,,,,,,,,,,,
+PC_0059,,,,,,,,,,,,,,,
+PC_0060,,,,,,,,,,,,,,,
+PC_0061,,,,,,,,,,,,,,,
+PC_0062,,,,,,,,,,,,,,,
+PC_0063,,,,,,,,,,,,,,,
+PC_0064,,,,,,,,,,,,,,,
